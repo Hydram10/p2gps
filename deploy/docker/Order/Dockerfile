@@ -4,7 +4,7 @@ MAINTAINER Hydra.Martinez@alu.uclm.es
 
 RUN mkdir -p /usr/local/app
 
-WORKDIR /usr/local/app
+#WORKDIR /usr/local/app
 
 #copiar el .jar del servicio a la imagen
 #No se indica el nombre porque las versiones pueden cambiar
